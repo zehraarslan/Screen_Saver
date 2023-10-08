@@ -3,6 +3,9 @@
 # Renk Değiştiren Kareler Uygulaması
 Bu proje, HTML ve JavaScript kullanarak dinamik olarak oluşturulan ve belirli aralıklarla renk değiştiren karelerin bulunduğu basit bir web uygulamasını içerir.
 
+<img width="650" alt="Ekran Resmi 2023-10-09 00 18 22" src="https://github.com/zehraarslan/Screen_Saver/assets/48572250/d64039f3-cd20-4b32-b93c-0126241faef1">
+
+
 # Nasıl Çalışır?
 Bu uygulama, tarayıcıda çalışır ve her biri rastgele bir renk alan 1000 adet kare içerir. Aşağıda uygulamanın temel işleyişi açıklanmıştır:
 
